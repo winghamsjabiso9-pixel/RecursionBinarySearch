@@ -1,4 +1,4 @@
-# RecursionBinarySearch
+# Laboratory Activity: Recursion
 
 The README.md file must contain:
 
